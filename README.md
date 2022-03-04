@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @k4b00m-Hozaifa
-- 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning CCNA
 - 📫 How to reach me : hozaifaowaisi.h@gmail.com
 
 <!---
